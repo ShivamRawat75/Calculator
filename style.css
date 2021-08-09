@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+
+    width: 450px;
+
+}
+.screen{
+    background: rgb(2,2,43);
+    padding: 20px;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    border: none;
+}
